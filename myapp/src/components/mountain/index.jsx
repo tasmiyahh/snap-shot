@@ -10,7 +10,7 @@ const Mountain = ()=>{
         <div>
                <div>
                 <h1 className="mountainheading">
-                    Beautiful Beaches In Pakistan
+                    Beautiful Mountains In Pakistan
                 </h1>
 
                 <div className="mountainimg">
